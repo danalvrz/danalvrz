@@ -21,7 +21,9 @@
 
 ### My favorite languages & tools 🚀
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;" width="500">
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
 
 <a style="padding: 2rem;" target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" style="padding: 1rem; margin-left: 4rem;"/>
@@ -38,6 +40,7 @@
 <a style="margin: 2rem;" href="https://reactjs.org">
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" style="padding: 1rem; margin-left: 4rem;"/>
 </a>
+</div>
 
 <a style="margin: 2rem;" target="_blank" href="https://redux.js.org">
     <img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" alt="redux" width="40" style="padding: 1rem; margin-left: 4rem;"/>
