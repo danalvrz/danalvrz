@@ -21,7 +21,7 @@
 
 ### My favorite languages & tools 🚀
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;" width="500">
 
 <a style="padding: 2rem;" target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" style="padding: 1rem; margin-left: 4rem;"/>
