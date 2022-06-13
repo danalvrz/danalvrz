@@ -53,6 +53,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/256px-Ruby_On_Rails_Logo.svg.png" alt="ruby on rails" width="65" height="30" align="center"/>
 </a>
 </div>
+</br>
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; width: 100%;">
 <a style="margin: 2rem;" target="_blank" href="https://www.postgresql.org">
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" style="padding: 1rem; margin-left: 4rem;"/>
@@ -82,6 +83,7 @@
     <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="eslint" width="40" height="40" style="padding: 1rem; margin-left: 4rem; padding-top: 1rem;"/>
 </a>
 </div>
+</br>
 <a style="margin: 2rem;" target="_blank" href="https://www.heroku.com">
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" style="padding: 1rem; margin-left: 4rem;"/>
 </a>
