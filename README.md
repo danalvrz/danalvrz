@@ -19,7 +19,8 @@
 
 ### My favorite languages & tools 🚀
 
-<div style="display: flex; flex-direction: row; flex-wrap: wrap;">
+<div style="display: flex; justify-content: flex-start; flex-wrap: wrap;">
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" style="padding: 1rem; margin-left: 4rem;"/></a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" style="padding: 1rem; margin-left: 4rem;"/></a>
@@ -57,6 +58,7 @@
 <a href="https://webpack.js.org"><img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40" style="padding: 1rem; margin-left: 4rem; padding-top: 1.5rem;"/></a>
 
 <a href="https://www.netlify.com"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" style="padding: 1rem; margin-left: 4rem;"/></a>
+
 </div>
 
 ### Let's connect 💡
