@@ -47,6 +47,7 @@
 <a style="margin: 2rem;" target="_blank" href="https://www.ruby-lang.org/en/">
     <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" width="40" align="center"/>
 </a><span width="100">&nbsp;</span><span width="100">&nbsp;</span><span width="100">&nbsp;</span>
+
 <a style="margin: 2rem;" target="_blank" href="https://rubyonrails.org">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/256px-Ruby_On_Rails_Logo.svg.png" alt="ruby on rails" width="65" height="30" align="center"/>
 </a><span width="100">&nbsp;</span><span width="100">&nbsp;</span><span width="100">&nbsp;</span>
@@ -93,11 +94,11 @@
 <a style="margin: 2rem;" target="_blank" href="https://code.visualstudio.com">
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40" style="padding: 1rem; margin-left: 4rem; padding-top: 1.5rem;"/>
 </a><span width="100">&nbsp;</span><span width="100">&nbsp;</span><span width="100">&nbsp;</span>
-
+<span width="100">&nbsp;</span>
 <a style="margin: 2rem;" target="_blank" href="https://webpack.js.org">
     <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40" style="padding: 1rem; margin-left: 4rem; padding-top: 1.5rem;"/>
 </a><span width="100">&nbsp;</span><span width="100">&nbsp;</span><span width="100">&nbsp;</span>
-
+<span width="100">&nbsp;</span>
 <a style="margin: 2rem;" target="_blank" href="https://www.netlify.com">
     <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" style="padding: 1rem; margin-left: 4rem;"/>
 </a>
