@@ -23,7 +23,7 @@
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
 
-<a style="margin: 2rem;" target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<a style="padding: 2rem;" target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" style="padding: 1rem; margin-left: 4rem;"/>
 </a>
 
