@@ -1,6 +1,6 @@
 ## Hello! I'm Dante 👋
 
-<div>
+<div align="center">
     <img src="https://media.giphy.com/media/dLJY3MAXrj2BG6PQyR/giphy.gif" width="500" align="center">
 </div><br/>
 
