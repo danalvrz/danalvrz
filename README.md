@@ -19,7 +19,7 @@
 
 ### My favorite languages & tools 🚀
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+<div style="display: flex; flex-direction:row justify-content: space-around; flex-wrap: wrap;">
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" style="padding: 1rem; margin-left: 4rem;"/></a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" style="padding: 1rem; margin-left: 4rem;"/></a>
