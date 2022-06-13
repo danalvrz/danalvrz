@@ -1,7 +1,7 @@
 ## Hello! I'm Dante 👋
 
-<div style="display: grid; justify-content: center;">
-    <img src="https://media.giphy.com/media/dLJY3MAXrj2BG6PQyR/giphy.gif" width="500">
+<div>
+    <img src="https://media.giphy.com/media/dLJY3MAXrj2BG6PQyR/giphy.gif" width="500" align="center">
 </div><br/>
 
 #### I am a full-stack developer based in CDMX, but I love to work remotely from any nice location while traveling. I am passionate about problem solving, design, collaboration, and creative thinking.
