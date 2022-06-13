@@ -27,31 +27,31 @@
 
 <a style="padding: 2rem;" target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" align="center"/>
-</a>
+</a><span width="100"></span>
 
 <a style="margin: 2rem;" target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" align="center"/>
-</a><span></br></span>
+</a><span width="100"> </span>
 
 <a style="margin: 2rem;" target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="javascript" width="40" height="40" align="center"/>
-</a><span></br></span>
+</a><span width="100"> </span>
 
 <a style="margin: 2rem;" href="https://reactjs.org">
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" align="center"/>
-</a><span></br></span>
+</a><span width="100"> </span>
 
 <a style="margin: 2rem;" target="_blank" href="https://redux.js.org">
     <img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" alt="redux" width="40" align="center"/>
-</a><span></br></span>
+</a><span width="100"> </span>
 
 <a style="margin: 2rem;" target="_blank" href="https://www.ruby-lang.org/en/">
     <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" width="40" align="center"/>
-</a><span></br></span>
+</a><span width="100"> </span>
 
 <a style="margin: 2rem;" target="_blank" href="https://rubyonrails.org">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/256px-Ruby_On_Rails_Logo.svg.png" alt="ruby on rails" width="65" height="30" align="center"/>
-</a>
+</a><span width="100"> </span>
 </div>
 </br>
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; width: 100%;">
