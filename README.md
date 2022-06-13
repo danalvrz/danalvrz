@@ -52,11 +52,11 @@
 <a style="margin: 2rem;" target="_blank" href="https://rubyonrails.org">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/256px-Ruby_On_Rails_Logo.svg.png" alt="ruby on rails" width="65" height="30" style="padding: 1rem; margin-left: 4rem; margin-top: 2rem;"/>
 </a>
-
+</div>
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; width: 100%;">
 <a style="margin: 2rem;" target="_blank" href="https://www.postgresql.org">
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" style="padding: 1rem; margin-left: 4rem;"/>
 </a>
-</div>
 
 <a style="margin: 2rem;" target="_blank" href="https://www.python.org">
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" style="padding: 1rem; margin-left: 4rem;"/>
@@ -89,6 +89,7 @@
 <a style="margin: 2rem;" target="_blank" href="https://www.npmjs.com">
     <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="60" height="40" style="padding: 1rem; margin-left: 4rem; padding-top: 1.5rem;"/>
 </a>
+</div>
 
 <a style="margin: 2rem;" target="_blank" href="https://code.visualstudio.com">
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40" style="padding: 1rem; margin-left: 4rem; padding-top: 1.5rem;"/>
