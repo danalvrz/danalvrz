@@ -87,6 +87,7 @@
 </div>
 
 </br>
+<div>
 <a  target="_blank" href="https://www.heroku.com">
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" style="padding: 1rem; margin-left: 4rem;"/>
 </a><span width="100">&nbsp;&nbsp;&nbsp;</span>
@@ -106,6 +107,7 @@
 <a  target="_blank" href="https://www.netlify.com">
     <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40"/>
 </a>
+</div>
 
 </div>
 
