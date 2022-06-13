@@ -53,53 +53,56 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/256px-Ruby_On_Rails_Logo.svg.png" alt="ruby on rails" width="65" height="30" align="center"/>
 </a><span width="100">&nbsp;&nbsp;&nbsp;</span>
 </div>
+
 </br>
+
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; width: 100%;">
 <a  target="_blank" href="https://www.postgresql.org">
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" style="padding: 1rem; margin-left: 4rem;"/>
-</a><span width="100">&nbsp;</span><span width="100">&nbsp;</span><span width="100">&nbsp;</span>
+</a><span width="100">&nbsp;&nbsp;&nbsp;</span>
 
 <a  target="_blank" href="https://www.python.org">
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" style="padding: 1rem; margin-left: 4rem;"/>
-</a><span width="100">&nbsp;</span><span width="100">&nbsp;</span><span width="100">&nbsp;</span>
+</a><span width="100">&nbsp;&nbsp;&nbsp;</span>
 
 <a  target="_blank" href="https://tailwindcss.com">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="50" style="padding: 1rem; margin-left: 4rem;"/>
-</a><span width="100">&nbsp;</span><span width="100">&nbsp;</span><span width="100">&nbsp;</span>
+</a><span width="100">&nbsp;&nbsp;&nbsp;</span>
 
 <a  target="_blank" href="https://getbootstrap.com">
     <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="50" height="45" style="padding: 1rem; margin-left: 4rem;"/>
-</a><span width="100">&nbsp;</span><span width="100">&nbsp;</span><span width="100">&nbsp;</span>
+</a><span width="100">&nbsp;&nbsp;&nbsp;</span>
 
 <a  target="_blank" href="https://www.figma.com">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" style="padding: 1rem; margin-left: 4rem;"/>
-</a><span width="100">&nbsp;</span><span width="100">&nbsp;</span><span width="100">&nbsp;</span>
+</a><span width="100">&nbsp;&nbsp;&nbsp;</span>
 
 <a  target="_blank" href="https://git-scm.com">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" style="padding: 1rem; margin-left: 4rem;"/>
-</a><span width="100">&nbsp;</span><span width="100">&nbsp;</span><span width="100">&nbsp;</span>
+</a><span width="100">&nbsp;&nbsp;&nbsp;</span>
 
 <a  target="_blank" href="https://eslint.org">
     <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="eslint" width="40" height="40" style="padding: 1rem; margin-left: 4rem; padding-top: 1rem;"/>
-</a><span width="100">&nbsp;</span><span width="100">&nbsp;</span><span width="100">&nbsp;</span>
+</a><span width="100">&nbsp;&nbsp;&nbsp;</span>
 </div>
+
 </br>
 <a  target="_blank" href="https://www.heroku.com">
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" style="padding: 1rem; margin-left: 4rem;"/>
-</a><span width="100">&nbsp;</span><span width="100">&nbsp;</span><span width="100">&nbsp;</span>
+</a><span width="100">&nbsp;&nbsp;&nbsp;</span>
 
 <a  target="_blank" href="https://www.npmjs.com">
     <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="60" height="40" />
-</a><span width="100">&nbsp;</span><span width="100">&nbsp;</span><span width="100">&nbsp;</span>
+</a><span width="100">&nbsp;&nbsp;&nbsp;</span>
 
 <a  target="_blank" href="https://code.visualstudio.com">
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40" />
-</a><span width="100">&nbsp;</span><span width="100">&nbsp;</span><span width="100">&nbsp;</span>
-<span width="100">&nbsp;</span>
+</a><span width="100">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+
 <a  target="_blank" href="https://webpack.js.org">
     <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40" />
-</a><span width="100">&nbsp;</span><span width="100">&nbsp;</span><span width="100">&nbsp;</span>
-<span width="100">&nbsp;</span>
+</a><span width="100">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+
 <a  target="_blank" href="https://www.netlify.com">
     <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40"/>
 </a>
