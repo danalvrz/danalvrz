@@ -40,7 +40,6 @@
 <a style="margin: 2rem;" href="https://reactjs.org">
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" style="padding: 1rem; margin-left: 4rem;"/>
 </a>
-</div>
 
 <a style="margin: 2rem;" target="_blank" href="https://redux.js.org">
     <img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" alt="redux" width="40" style="padding: 1rem; margin-left: 4rem;"/>
@@ -57,6 +56,7 @@
 <a style="margin: 2rem;" target="_blank" href="https://www.postgresql.org">
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" style="padding: 1rem; margin-left: 4rem;"/>
 </a>
+</div>
 
 <a style="margin: 2rem;" target="_blank" href="https://www.python.org">
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" style="padding: 1rem; margin-left: 4rem;"/>
