@@ -111,7 +111,7 @@
 
 ### Let's connect 💡
 
-<div style="display: flex; justify-content: flex-start; flex-wrap: wrap;">
+<div>
     <a href="https://twitter.com/danalvrz" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danalvrz"  align="center" height="30" width="30"/>
     </a>
