@@ -81,7 +81,7 @@
 <a style="margin: 2rem;" target="_blank" href="https://eslint.org">
     <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="eslint" width="40" height="40" style="padding: 1rem; margin-left: 4rem; padding-top: 1rem;"/>
 </a>
-
+</div>
 <a style="margin: 2rem;" target="_blank" href="https://www.heroku.com">
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" style="padding: 1rem; margin-left: 4rem;"/>
 </a>
@@ -89,7 +89,6 @@
 <a style="margin: 2rem;" target="_blank" href="https://www.npmjs.com">
     <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="60" height="40" style="padding: 1rem; margin-left: 4rem; padding-top: 1.5rem;"/>
 </a>
-</div>
 
 <a style="margin: 2rem;" target="_blank" href="https://code.visualstudio.com">
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40" style="padding: 1rem; margin-left: 4rem; padding-top: 1.5rem;"/>
@@ -115,6 +114,6 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dante-alvarez/" height="30" width="60"/>
     </a>
     <a href="mailto:dante.alvrz@gmail.com?subject=Want%20to%20connect" target="_blank">
-        <img src="https://img.icons8.com/fluency/48/000000/new-post.png" alt="dante-alvarez/" height="38" width="40"/>
+        <img src="https://img.icons8.com/fluency/48/000000/new-post.png" alt="dante-alvarez/" align="center" height="38" width="40"/>
     </a>
 </div>
