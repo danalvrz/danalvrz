@@ -114,7 +114,7 @@
 ### Let's connect 💡
 
 <div>
-    <a href="https://twitter.com/danalvrz" target="blank">
+    <a href="https://twitter.com/dantealvrz" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danalvrz"  align="center" height="30" width="30"/>
     </a>
     <a href="https://www.linkedin.com/in/dante-alvarez-p/" target="blank">
