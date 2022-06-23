@@ -120,7 +120,7 @@
     <a href="https://www.linkedin.com/in/dante-alvarez-p/" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dante-alvarez/" align="center" height="30" width="60"/>
     </a>
-    <a href="mailto:dante.alvrz@gmail.com?subject=Want%20to%20connect" target="_blank">
+    <a href="mailto:dante.alvarez.pr@gmail.com?subject=Want%20to%20connect" target="_blank">
         <img src="https://img.icons8.com/fluency/48/000000/new-post.png" alt="dante-alvarez/" align="center" height="38" width="40"/>
     </a>
 </div>
